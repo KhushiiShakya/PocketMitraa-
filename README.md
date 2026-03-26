@@ -46,7 +46,7 @@ No server required—it's a static site.
 
 Host Online (Optional):
 Upload files to GitHub Pages: Create a repo, enable Pages, and set the source to your main branch.
-Your site will be live at https://yourusername.github.io/repo-name/login.html.
+Your site will be live at https://KhushiiShakya.github.io/PocketMitraa-/login.html.
 Usage
 
 Signup/Login:
